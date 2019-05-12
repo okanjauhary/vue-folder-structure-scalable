@@ -10,7 +10,7 @@ module.exports = {
       alias: {
         'Helpers': path.resolve(__dirname,'./src/helpers'),
         'Components': path.resolve(__dirname,'./src/components'),
-        'Views': path.resolve(__dirname,'./src/views'),
+        'Views': path.resolve(__dirname,'./src/components/views'),
         'Api': path.resolve(__dirname,'./src/api'),
         'Config': path.resolve(__dirname,'./src/config'),
         'Services': path.resolve(__dirname,'./src/services'),
